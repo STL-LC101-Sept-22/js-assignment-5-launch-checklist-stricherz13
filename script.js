@@ -1,6 +1,6 @@
 // Write your JavaScript code here!
 
-// import {addDestinationInfo, formSubmission, pickPlanet} from "./scriptHelper";
+import {addDestinationInfo, formSubmission, pickPlanet} from "./scriptHelper";
 
 window.addEventListener("load", function () {
 
